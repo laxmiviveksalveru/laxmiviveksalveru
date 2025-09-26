@@ -82,7 +82,7 @@ I'm a passionate **B.Tech AI & Data Science** student at KL University Hyderabad
 
 ### B.Tech in AI & Data Science
 **KL University Hyderabad** | May 2021 – Present
-- **CGPA:** 8.6
+- **CGPA:** 8.75
 - **Key Courses:** Data Structures, Algorithms, Machine Learning, NLP, Computer Vision
 
 ### Intermediate (12th)
