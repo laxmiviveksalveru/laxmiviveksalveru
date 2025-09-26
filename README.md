@@ -8,7 +8,7 @@
 
 I'm a passionate **B.Tech AI & Data Science** student at KL University Hyderabad, with a strong foundation in machine learning, deep learning, and computer vision. I love exploring cutting-edge technologies and building innovative solutions that make a real-world impact.
 
-- 🎓 Currently pursuing B.Tech in AI & DS (CGPA: 8.6)
+- 🎓 Currently pursuing B.Tech in AI & DS (CGPA: 8.75)
 - 🌱 I'm currently learning advanced AI techniques and cloud technologies
 - 💡 I'm interested in Machine Learning, Computer Vision, and Cloud Computing
 - 📫 How to reach me: **laxmiviveksalveru@gmail.com**
